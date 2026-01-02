@@ -3,5 +3,3 @@
 *.tfstate.*
 *.tfvars
 *.pem
-*.tfstate.backup
-*.tfstate
